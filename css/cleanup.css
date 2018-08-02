@@ -15,4 +15,7 @@
   display: none;
 }
 
-#wall 
+#wall .parent #tag-5 {
+  display: none;
+}
+
